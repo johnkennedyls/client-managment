@@ -1,0 +1,7 @@
+{
+  "name": "cursoReact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
